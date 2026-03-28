@@ -1,1 +1,1 @@
-simple calculator - https://github.com/abhishek06092003/calculator/blob/main/index.html
+simple calculator repository link -  https://github.com/abhishek06092003/calculator
