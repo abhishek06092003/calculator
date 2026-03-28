@@ -1,1 +1,1 @@
-click here to try the calculator - https://github.com/abhishek06092003/calculator/
+click here to try the calculator - https://abhishek06092003.github.io/calculator/
